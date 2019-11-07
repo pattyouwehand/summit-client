@@ -1,4 +1,6 @@
-# vue-app
+# Summit Or Bust
+
+Find mountain peaks and best hike routes all over the world. Create a profile and add your story. Application developed with VUE.js
 
 ## Project setup
 ```
@@ -14,11 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
